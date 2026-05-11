@@ -115,9 +115,22 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| Getting Started with GitHub Copilot | 学习如何使用 GitHub Copilot 辅助编程、调试和代码生成。 | [Open](https://github.com/skills/getting-started-with-github-copilot) |
-| Integrate MCP with Copilot | 学习如何将 MCP Servers 与 GitHub Copilot 集成。 | [Open](https://github.com/skills/integrate-mcp-with-copilot) |
-| Customize Your GitHub Copilot Experience | 学习如何通过 instructions、prompts 和 chat modes 调整 Copilot 行为。 | [Open](https://github.com/skills/customize-your-github-copilot-experience) |
+| Getting Started with GitHub Copilot | GitHub Copilot 入门课程，学习使用 Copilot 解释代码、编写代码、规划任务、调试和加速开发流程。 | [Open](https://github.com/skills/getting-started-with-github-copilot) |
+| Customize Your GitHub Copilot Experience | 学习通过 custom instructions、prompts 和 chat modes 定制 Copilot 的行为，使其适配特定开发流程。 | [Open](https://github.com/skills/customize-your-github-copilot-experience) |
+| Build Applications with GitHub Copilot Agent Mode | 学习使用 GitHub Copilot Agent Mode 构建多层应用，并尝试不同模型完成开发任务。 | [Open](https://github.com/skills/build-applications-w-copilot-agent-mode) |
+| Expand Your Team with Copilot | 学习让 Copilot coding agent 直接处理 GitHub Issues，不需要手动进入本地开发环境。 | [Open](https://github.com/skills/expand-your-team-with-copilot) |
+| GitHub Copilot Code Review | 学习使用 GitHub Copilot 进行代码审查，包括 PR review、自动 review 和自定义审查规则。 | [Open](https://github.com/skills/copilot-code-review) |
+| Integrate MCP with Copilot | 学习 MCP 基础、GitHub MCP Server 配置，以及如何把 MCP Server 集成到 Copilot Agent Mode 工作流中。 | [Open](https://github.com/skills/integrate-mcp-with-copilot) |
+| Create Applications with the Copilot CLI | 学习使用 GitHub Copilot CLI 管理 issues、构建 Node.js 应用，并使用终端里的 AI coding workflow。 | [Open](https://github.com/skills/create-applications-with-the-copilot-cli) |
+| Modernize Your Legacy Code with GitHub Copilot | 学习使用 Copilot 分析、理解和现代化旧代码，例如将遗留系统迁移到新的技术栈。 | [Open](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) |
+| Scale Institutional Knowledge Using Copilot Spaces | 学习使用 Copilot Spaces 扩展组织知识库，帮助团队整理、访问和复用机构内部知识。 | [Open](https://github.com/skills/scale-institutional-knowledge-using-copilot-spaces) |
+| AI in Actions | 学习将 GitHub Models 集成到 GitHub Actions workflow 中，实现 AI 推理、Issue 分析和智能自动化。 | [Open](https://github.com/skills/ai-in-actions) |
+| Create AI Powered Actions | 学习构建基于 JavaScript 的 AI-enhanced GitHub Action，并结合 GitHub Models 实现自动化分析逻辑。 | [Open](https://github.com/skills/create-ai-powered-actions) |
+| Idea to App with Spark | 学习使用 GitHub Spark，通过自然语言描述把想法转化为真实 Web 应用。 | [Open](https://github.com/skills/idea-to-app-with-spark) |
+| Secure Code Game | 通过带有 AI 与安全主题的练习学习安全编码，适合放在 AI Security / secure coding 扩展方向。 | [Open](https://github.com/skills/secure-code-game) |
+| Exercise Creator | 使用 Copilot Agent Mode 辅助创建 GitHub Skills exercise，适合学习 AI 辅助课程开发流程。 | [Open](https://github.com/skills/exercise-creator) |
+| Your First Extension for GitHub Copilot | 学习早期 GitHub Copilot Extension 开发思路；该仓库已归档，适合作为历史参考。 | [Open](https://github.com/skills/your-first-extension-for-github-copilot) |
+| Copilot Codespaces VS Code | 早期 Copilot、Codespaces 和 VS Code 相关课程；该仓库已归档，适合作为历史参考。 | [Open](https://github.com/skills/copilot-codespaces-vscode) |
 
 ## 课程开发工具 / Templates
 
