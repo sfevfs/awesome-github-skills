@@ -85,7 +85,15 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| GitHub Pages | 学习如何使用 GitHub Pages 发布静态网页。 | [Open](https://github.com/skills/github-pages) |
+| GitHub Pages | 学习如何使用 GitHub Pages 创建并发布静态网站或博客，适合个人主页、项目文档和作品展示。 | [Open](https://github.com/skills/github-pages) |
+| Deploy to Azure | 学习使用 GitHub Actions 和 Microsoft Azure 创建 staging 与 production 两套部署 workflow。 | [Open](https://github.com/skills/deploy-to-azure) |
+| Publish Docker Images | 学习使用 GitHub Actions 构建并发布 Docker 镜像到 GitHub Container Registry，并配置自动版本标签。 | [Open](https://github.com/skills/publish-docker-images) |
+| Release Based Workflow | 学习基于 GitHub flow 的发布流程，包括 tag、release、release notes、release PR 和 hotfix。 | [Open](https://github.com/skills/release-based-workflow) |
+| Work with Workflow Artifacts | 学习在 GitHub Actions 中上传、下载、预览和复用 workflow artifacts，适合保存构建产物、测试报告和部署文件。 | [Open](https://github.com/skills/workflow-artifacts) |
+| Reusable Workflows | 学习创建可复用的 GitHub Actions workflows，适合把构建、测试和部署流程封装成统一模板。 | [Open](https://github.com/skills/reusable-workflows) |
+| Test with Actions | 学习使用 GitHub Actions 做持续集成，在合并或部署前自动运行测试和质量检查。 | [Open](https://github.com/skills/test-with-actions) |
+| Hello GitHub Actions | GitHub Actions 入门课程，学习创建和运行 workflow，是后续发布部署自动化的基础。 | [Open](https://github.com/skills/hello-github-actions) |
+| Write JavaScript Actions | 学习编写自定义 JavaScript Action，可用于扩展项目自己的构建、发布或部署自动化逻辑。 | [Open](https://github.com/skills/write-javascript-actions) |
 
 ## Security / 安全
 
