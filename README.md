@@ -99,9 +99,18 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| Secure Code Game | 通过游戏化练习学习安全编码。 | [Open](https://github.com/skills/secure-code-game) |
-| Secure Repository Supply Chain | 学习依赖、漏洞和供应链安全相关的仓库防护方法。 | [Open](https://github.com/skills/secure-repository-supply-chain) |
-
+| Secure Code Game | 通过游戏化的 in-editor 练习学习安全编码，覆盖 Web 应用、系统编程、数据处理、CI/CD、后端服务和 CodeQL。 | [Open](https://github.com/skills/secure-code-game) |
+| Secure Repository Supply Chain | 学习仓库供应链安全，包括 dependency graph、Dependabot alerts、安全更新和版本更新。 | [Open](https://github.com/skills/secure-repository-supply-chain) |
+| Introduction to CodeQL | 学习启用 CodeQL code scanning，识别、审查并修复 SQL injection 等典型安全漏洞。 | [Open](https://github.com/skills/introduction-to-codeql) |
+| Introduction to Secret Scanning | 学习启用 secret protection，识别明文凭据，并通过 push protection 阻止密钥进入仓库。 | [Open](https://github.com/skills/introduction-to-secret-scanning) |
+| Configure CodeQL Language Matrix | 学习配置 CodeQL language matrix，让一个 code scanning workflow 覆盖多语言仓库。 | [Open](https://github.com/skills/configure-codeql-language-matrix) |
+| GitHub Copilot Code Review | 学习使用 GitHub Copilot 进行自动代码审查，提前发现代码质量和潜在风险问题。 | [Open](https://github.com/skills/copilot-code-review) |
+| Test with Actions | 学习使用 GitHub Actions 做 CI 测试和 PR 检查，防止未通过测试的代码被合并。 | [Open](https://github.com/skills/test-with-actions) |
+| Introduction to Repository Management | 学习仓库协作管理、rulesets、责任分配和安全更新流程，适合建立更安全的协作规则。 | [Open](https://github.com/skills/introduction-to-repository-management) |
+| Reusable Workflows | 学习创建可复用 workflow，适合统一组织内的安全扫描、测试和合规检查流程。 | [Open](https://github.com/skills/reusable-workflows) |
+| Hello GitHub Actions | GitHub Actions 入门课程，可作为后续安全扫描、自动测试和 DevSecOps workflow 的基础。 | [Open](https://github.com/skills/hello-github-actions) |
+| Write JavaScript Actions | 学习编写自定义 JavaScript Action，可用于构建项目自己的安全检查或自动化审查逻辑。 | [Open](https://github.com/skills/write-javascript-actions) |
+| Change Commit History | 学习修改 Git 提交历史，适合了解误提交敏感文件、清理错误提交等场景的处理基础。 | [Open](https://github.com/skills/change-commit-history) |
 ## GitHub Copilot / AI 开发
 
 | Skill | 简单描述 | 链接 |
