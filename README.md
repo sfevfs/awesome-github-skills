@@ -81,7 +81,7 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 | Introduction to Git | 使用命令行和 VS Code 学习 Git 版本控制，适合作为开发环境与代码工作流的基础练习。 | [Open](https://github.com/skills/introduction-to-git) |
 | Your First Extension for GitHub Copilot | 启动预配置开发环境并构建 GitHub Copilot Extension；注意该方向已被 MCP 取代，适合作为历史参考。 | [Open](https://github.com/skills/your-first-extension-for-github-copilot) |
 
-## GitHub Pages / 发布部署
+## GitHub Pages / 发布与部署
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
