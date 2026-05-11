@@ -35,8 +35,9 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| Introduction to Repository Management | 学习如何管理一个协作型、友好且健康的 GitHub 项目。 | [Open](https://github.com/skills/introduction-to-repository-management) |
-
+| Introduction to Repository Management | 学习仓库协作管理基础，包括仓库规则、协作流程、责任分配、组织仓库协作和安全更新管理。 | [Open](https://github.com/skills/introduction-to-repository-management) |
+| Release Based Workflow | 学习基于 GitHub flow 的发布协作流程，包括 release、tag、release notes、release PR 和 hotfix。 | [Open](https://github.com/skills/release-based-workflow) |
+| Migrate Azure DevOps Repository | 学习如何将 Azure DevOps 仓库迁移到 GitHub，并配置迁移工具、权限和相关集成。 | [Open](https://github.com/skills/migrate-ado-repository) |
 ## Pull Request 与 Code Review
 
 | Skill | 简单描述 | 链接 |
