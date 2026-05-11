@@ -54,10 +54,16 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| Hello GitHub Actions | 学习 GitHub Actions 的基础概念和工作流写法。 | [Open](https://github.com/skills/hello-github-actions) |
-| Test with Actions | 学习如何使用 GitHub Actions 自动运行测试。 | [Open](https://github.com/skills/test-with-actions) |
-| Publish Packages | 学习如何使用 GitHub Actions 发布软件包。 | [Open](https://github.com/skills/publish-packages) |
-
+| Hello GitHub Actions | GitHub Actions 入门课程，学习创建 workflow、添加 job、添加 run step，并运行自动化任务。 | [Open](https://github.com/skills/hello-github-actions) |
+| Test with Actions | 学习使用 GitHub Actions 做持续集成，包括自动化测试、覆盖率报告、PR 检查和合并保护。 | [Open](https://github.com/skills/test-with-actions) |
+| Reusable Workflows | 学习创建可复用的 GitHub Actions workflows，并在其他 workflow 中调用，减少重复 CI 配置。 | [Open](https://github.com/skills/reusable-workflows) |
+| Work with Workflow Artifacts | 学习在 GitHub Actions 中上传、下载、预览和复用 workflow artifacts，用于测试报告、构建产物和部署流程。 | [Open](https://github.com/skills/workflow-artifacts) |
+| Write JavaScript Actions | 学习编写自定义 JavaScript GitHub Action，包括 action metadata、打包、输出和 workflow 调用。 | [Open](https://github.com/skills/write-javascript-actions) |
+| Publish Docker Images | 学习使用 GitHub Actions 构建并发布 Docker 镜像到 GitHub Container Registry，并配置自动版本标签。 | [Open](https://github.com/skills/publish-docker-images) |
+| Deploy to Azure | 学习使用 GitHub Actions 和 Microsoft Azure 创建 staging 与 production 两套部署 workflow。 | [Open](https://github.com/skills/deploy-to-azure) |
+| AI in Actions | 学习把 GitHub Models 集成到 GitHub Actions workflow 中，实现 AI 推理、Issue 分析和智能自动化。 | [Open](https://github.com/skills/ai-in-actions) |
+| Create AI Powered Actions | 学习构建基于 JavaScript 的 AI-enhanced GitHub Action，并结合 GitHub Models 实现自动化分析逻辑。 | [Open](https://github.com/skills/create-ai-powered-actions) |
+| Configure CodeQL Language Matrix | 学习配置 CodeQL language matrix，用一个 code scanning workflow 覆盖多语言仓库的安全扫描。 | [Open](https://github.com/skills/configure-codeql-language-matrix) |
 ## Codespaces / 开发环境
 
 | Skill | 简单描述 | 链接 |
