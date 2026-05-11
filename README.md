@@ -25,9 +25,12 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| Introduction to GitHub | 适合 GitHub 初学者，学习仓库、分支、提交和 Pull Request 的基础流程。 | [Open](https://github.com/skills/introduction-to-github) |
-| Introduction to Git | 学习 Git 版本控制基础，包括 commit、branch 和协作流程。 | [Open](https://github.com/skills/introduction-to-git) |
-
+| Introduction to GitHub | GitHub 入门课程，学习仓库、分支、提交和 Pull Request 等基础流程。 | [Open](https://github.com/skills/introduction-to-github) |
+| Introduction to Git | Git 版本控制入门课程，学习 commit、branch、history 和基础协作流程。 | [Open](https://github.com/skills/introduction-to-git) |
+| Communicate using Markdown | 学习如何使用 Markdown 编写 README、Issue、评论和项目说明。 | [Open](https://github.com/skills/communicate-using-markdown) |
+| Connect the Dots | 学习在 GitHub 仓库中导航、查找文件、理解项目结构和使用仓库信息。 | [Open](https://github.com/skills/connect-the-dots) |
+| Resolve Merge Conflicts | 学习为什么会产生合并冲突，以及如何在 GitHub 项目中解决冲突。 | [Open](https://github.com/skills/resolve-merge-conflicts) |
+| Change Commit History | 学习如何修改 Git 提交历史，适合作为 Git 基础之后的进阶练习。 | [Open](https://github.com/skills/change-commit-history) |
 ## 仓库管理与协作
 
 | Skill | 简单描述 | 链接 |
