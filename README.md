@@ -42,9 +42,14 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| Review Pull Requests | 学习如何审查 Pull Request，并给出代码反馈。 | [Open](https://github.com/skills/review-pull-requests) |
-| Resolve Merge Conflicts | 学习如何处理 GitHub 中常见的合并冲突。 | [Open](https://github.com/skills/resolve-merge-conflicts) |
-
+| Review Pull Requests | 学习 Pull Request 协作流程，包括评论、请求修改、批准和合并前的代码反馈。 | [Open](https://github.com/skills/review-pull-requests) |
+| Resolve Merge Conflicts | 学习合并冲突产生的原因，以及如何检查、定位并解决 Pull Request 中的冲突。 | [Open](https://github.com/skills/resolve-merge-conflicts) |
+| GitHub Copilot Code Review | 学习如何使用 GitHub Copilot 进行代码审查，包括 PR review、自动 review 和自定义 review 规则。 | [Open](https://github.com/skills/copilot-code-review) |
+| Release Based Workflow | 学习基于 GitHub flow 的发布流程，包括 release pull request、release notes、merge、hotfix 和版本发布。 | [Open](https://github.com/skills/release-based-workflow) |
+| Test with Actions | 学习如何在 Pull Request 中运行自动化测试、生成覆盖率报告，并要求测试通过后才能合并。 | [Open](https://github.com/skills/test-with-actions) |
+| Introduction to Repository Management | 学习仓库协作管理，包括 rulesets、协作流程、责任分配和让多人安全协作的仓库规则。 | [Open](https://github.com/skills/introduction-to-repository-management) |
+| Introduction to GitHub | 学习 Pull Request 的最基础流程，包括创建分支、提交文件、打开 Pull Request 和合并 Pull Request。 | [Open](https://github.com/skills/introduction-to-github) |
+| Change Commit History | 学习如何清理 Git 提交历史，适合处理错误提交、敏感文件误提交等影响 PR 质量的问题。 | [Open](https://github.com/skills/change-commit-history) |
 ## GitHub Actions / 自动化
 
 | Skill | 简单描述 | 链接 |
