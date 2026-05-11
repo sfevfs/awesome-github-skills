@@ -68,7 +68,18 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Skill | 简单描述 | 链接 |
 |---|---|---|
-| Code with Codespaces | 学习如何使用 GitHub Codespaces 创建云端开发环境。 | [Open](https://github.com/skills/code-with-codespaces) |
+| Code with Codespaces | 学习创建、配置和使用 GitHub Codespaces，并为仓库定制可复现的云端开发环境。 | [Open](https://github.com/skills/code-with-codespaces) |
+| Exercise Creator | 用于开发和管理 GitHub Skills exercises 的 Codespace，包含统一设置、测试工具、工作流检查和 exercise 编写指南。 | [Open](https://github.com/skills/exercise-creator) |
+| Secure Code Game | 在浏览器和 GitHub Codespaces 中完成安全编码练习，适合学习 in-editor 安全训练环境。 | [Open](https://github.com/skills/secure-code-game) |
+| Build Applications with GitHub Copilot Agent Mode | 启动预配置开发环境，并使用 GitHub Copilot agent mode 构建多层应用。 | [Open](https://github.com/skills/build-applications-w-copilot-agent-mode) |
+| Getting Started with GitHub Copilot | 在 VS Code 开发流程中学习使用 GitHub Copilot 解释、编写、规划和修改代码。 | [Open](https://github.com/skills/getting-started-with-github-copilot) |
+| Modernize Your Legacy Code with GitHub Copilot | 在 VS Code / Copilot 开发环境中分析、重构和现代化旧代码。 | [Open](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) |
+| GitHub Copilot Code Review | 学习在 VS Code 和 Pull Request 场景中使用 Copilot 做代码审查，并要求具备 Codespaces 或相关经验。 | [Open](https://github.com/skills/copilot-code-review) |
+| Publish Docker Images | 设置开发环境并创建 Docker 构建发布流程，学习容器化项目的开发、构建和发布环境。 | [Open](https://github.com/skills/publish-docker-images) |
+| Write JavaScript Actions | 学习初始化 JavaScript 项目、编写自定义 Action、打包发布文件，并在 workflow 中测试。 | [Open](https://github.com/skills/write-javascript-actions) |
+| Create AI Powered Actions | 设置 JavaScript / AI Action 开发环境，安装 GitHub Models 相关 SDK，并进行本地调试和打包。 | [Open](https://github.com/skills/create-ai-powered-actions) |
+| Introduction to Git | 使用命令行和 VS Code 学习 Git 版本控制，适合作为开发环境与代码工作流的基础练习。 | [Open](https://github.com/skills/introduction-to-git) |
+| Your First Extension for GitHub Copilot | 启动预配置开发环境并构建 GitHub Copilot Extension；注意该方向已被 MCP 取代，适合作为历史参考。 | [Open](https://github.com/skills/your-first-extension-for-github-copilot) |
 
 ## GitHub Pages / 发布部署
 
