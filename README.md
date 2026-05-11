@@ -136,8 +136,16 @@ GitHub Skills 官方目录可以在这里查看：[GitHub Skills](https://skills
 
 | Resource | 简单描述 | 链接 |
 |---|---|---|
-| Exercise Creator | 用于创建和维护 GitHub Skills exercises 的工具和文档。 | [Open](https://github.com/skills/exercise-toolkit) |
-| Exercise Template | 创建新 exercise 时可以使用的模板仓库。 | [Open](https://github.com/skills/exercise-template) |
+| Exercise Creator | 用于开发和管理 GitHub Skills exercises 的 Codespace，包含统一配置、测试工具、grading workflow 检查、exercise 编写指南和 Copilot prompts。 | [Open](https://github.com/skills/exercise-creator) |
+| Exercise Template | 创建新 GitHub Skills exercise 时使用的模板仓库，包含可替换的标题、目标用户、学习目标、步骤和启动说明。 | [Open](https://github.com/skills/exercise-template) |
+| Exercise Toolkit | GitHub Skills exercise 的通用工具包，包含 reusable workflows、Markdown templates 和 composite actions。 | [Open](https://github.com/skills/exercise-toolkit) |
+| Action Text Variables | 用于在文本模板中替换变量，可生成动态 Issue、PR、评论、wiki 或课程反馈内容。 | [Open](https://github.com/skills/action-text-variables) |
+| Action Keyphrase Checker | 用于检查文本或文件中是否出现指定关键词，适合做 exercise grading、内容检查和步骤验证。 | [Open](https://github.com/skills/action-keyphrase-checker) |
+| Action Check File | 用于检查文件是否发生预期变化，例如检查 Markdown 文件中是否包含指定格式或内容。 | [Open](https://github.com/skills/action-check-file) |
+| Action Update Step | 用于在学习者完成某一步后更新课程仓库，把 exercise 推进到下一步。 | [Open](https://github.com/skills/action-update-step) |
+| GitHub Skills Releases | GitHub Skills 的 monthly changelog，用于跟踪 Skills exercise 和平台更新。 | [Open](https://github.com/skills/releases) |
+| GitHub Skills for EMU | 面向 Enterprise Managed Users 组织的 GitHub Skills 启用指南，包含配置说明和 FAQ。 | [Open](https://github.com/skills/skills-for-emu) |
+| GitHub Skills Organization Profile | GitHub Skills 组织的 `.github` 特殊仓库，包含组织 profile、贡献说明、PR 模板、支持和安全说明。 | [Open](https://github.com/skills/.github) |
 
 ## 其他资源
 
